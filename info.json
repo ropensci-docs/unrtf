@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "139be725cb0058c1caec02e0ade9199f7eada997",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2020-05-21 07:09:49",
+    "files": 1,
+    "merge": false,
+    "message": "Fix build on Mac\n"
+  },
+  "remote": "https://github.com/ropensci/unrtf",
+  "pkg": "unrtf"
+}
