@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "7fb440eccb8f38584636cd0bdd9f3635a96f6b51",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2024-01-18 20:24:28",
+    "files": 3,
+    "merge": false,
+    "message": "Drop 32-bit support; fix arm64\n"
+  },
+  "repo": "https://github.com/ropensci/unrtf",
+  "pkg": "unrtf"
+}
