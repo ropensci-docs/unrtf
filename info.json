@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "a4e622e57e15ab243e9a796d50feed3799735176",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2026-07-07T10:03:42Z",
+    "files": 1,
+    "merge": false,
+    "message": "Trigger build to test\n"
+  },
+  "repo": "https://github.com/ropensci/unrtf",
+  "pkg": "unrtf",
+  "time": "2026-09-05T08:16:53Z"
+}
